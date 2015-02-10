@@ -18,4 +18,9 @@ public class Hello
         Message = str;
     }
     
+    public void origMes()
+    {
+        Message = "Hello";
+    }
+    
 }

@@ -3,4 +3,6 @@ comment0.params=
 comment0.target=Hello()
 comment1.params=str
 comment1.target=void\ changeMessage(java.lang.String)
-numComments=2
+comment2.params=
+comment2.target=void\ origMes()
+numComments=3
