@@ -20,7 +20,7 @@ public class Hello
     
     public void origMes()
     {
-        Message = "Hello";
+        Message = "Heeeeeeeeelllllllooooooo";
     }
     
 }
