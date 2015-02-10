@@ -13,9 +13,11 @@ public class Hello
         Message = "Hello";
     }
     
-    public void changeMessage(String str)
+    public void changeMessage()
     {
-        Message = str;
+        
+        Message = "Bye";
+        
     }
     
     public void origMes()
